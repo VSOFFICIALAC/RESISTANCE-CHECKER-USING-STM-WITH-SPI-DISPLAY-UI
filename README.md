@@ -1,0 +1,2 @@
+# RESISTANCE-CHECKER-USING-STM-WITH-SPI-DISPLAY-UI
+STM Resistance Checker is an STM32F103C8T6-based resistor color-code calculator with an ST7735 TFT display. It converts 3 to 6 color bands into resistance, tolerance, and temperature coefficient, and turns entered values into 4 or 5 bands. Features include button controls, mode selection, input validation, and clear visual results for everyday use.
